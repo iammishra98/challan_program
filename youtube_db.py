@@ -64,7 +64,7 @@ def main():
             print("Invalid Choice ")
 
     conn.close()
-    # ********************* this is commit testingl
+# ************ REcodf afsdlad fadsjf adlf ad
 
 if __name__ == "__main__":
     main()
